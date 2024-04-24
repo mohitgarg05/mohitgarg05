@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitgarg05&label=Profile%20views&color=0e75b6&style=flat" alt="mohitgarg05" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-mohit-rho.vercel.app/](https://portfolio-mohit-rho.vercel.app/)
+- 👨‍💻 All of my projects are available at [mgarg.in](http://mgarg.in/)
 
 - 📝 I regularly write articles on [https://medium.com/@mgarg6858](https://medium.com/@mgarg6858)
 
